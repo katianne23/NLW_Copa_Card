@@ -1,5 +1,12 @@
 # NLW_Copa_Card
-Criação de figurinha da copa estilo Rocketseat usando o modelo de card
+![site](https://github.com/katianne23/NLW_Copa_Card/blob/main/assets/preview.png)
+
+> 💻 Criação de figurinha da copa estilo Rocketseat usando o modelo de card
+
+
+
+[Clique aqui para acessar](https://katianne23.github.io/NLW_Copa_Card/)
+
 
 
 ## 🛠 Tecnologias Utilizadas:
